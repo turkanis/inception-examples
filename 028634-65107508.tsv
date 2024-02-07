@@ -1,0 +1,15 @@
+#FORMAT=WebAnno TSV 3.3
+#T_SP=webanno.custom.Categories|Category
+
+
+#Text=Austin Sports Academy, Inc. 1207 Garner Ave Austin TX2133
+1-1	0-6	Austin	_
+1-2	7-13	Sports	_
+1-3	14-21	Academy	_
+1-4	21-22	,	_
+1-5	23-27	Inc.	_
+1-6	28-32	1207	Address[0]
+1-7	33-39	Garner	Address[0]
+1-8	40-43	Ave	Address[0]
+1-9	44-50	Austin	Address[0]
+1-10	51-57	TX2133	Address[0]
